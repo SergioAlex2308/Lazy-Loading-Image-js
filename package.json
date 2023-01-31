@@ -1,6 +1,6 @@
 {
 
-  "homepage": "https://sergioalex2308.github.io/AVO-api-TPlatzi",
+  "homepage": "https://github.com/SergioAlex2308/Lazy-Loading-Image-js",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",

@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://sergioalex2308.github.io/AVO-api-TPlatzi',
+    baseUrl: 'https://github.com/SergioAlex2308/Lazy-Loading-Image-js',
   },
 }
